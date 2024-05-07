@@ -1,1 +1,2 @@
 # Discord_PudgyPenguins
+In this research, we emphasize the importance of thematic analysis as a robust qualitative analytical approach. This study delves into the meticulous process of data extraction from Discord huddle chats and announcements, spanning different phases from June 2021 to January 2024. The research expanded to analyse announcement data from the Discord community, alongside huddle chat data. These announcements, disseminated by community stakeholders, were crucial for engaging the audience and sharing updates on NFT token releases and developments. 
